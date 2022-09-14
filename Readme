@@ -1,0 +1,2 @@
+This is my first React x Tailwind project.
+I've tried to increase efficieny by eliminating multiple useStates and replacing them by one useReducer hook. 
